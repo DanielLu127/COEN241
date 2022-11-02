@@ -1,0 +1,5 @@
+1. this is the screenshot of succeffully invoking the figlet function
+2. this is the screenshot of running command: sudo journalctl -u faasd --lines 40
+3. this is the screenshot of my OpenFaaS gateway AFTER deploying figlet, slack-handler and slack-interactive functions
+4. screenshot of succeffully invoking slack-request function uisng curl and FaaS CLI
+5. screenshot of succeffully invoking slack-interactive function uisng curl and FaaS CLI
